@@ -5,7 +5,7 @@ body {
 	 font: 100%/1.4 Noto Sans, sans-serif;
 }
 .homePage {
-	background: #DDE5F7;
+	background: #06182A;
 }
 .container {
 	width: 960px;
@@ -31,7 +31,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #45484E;
+	background: #E5E6F5;
 	margin: 0px;
 	float: left;
 	width: 100%;
